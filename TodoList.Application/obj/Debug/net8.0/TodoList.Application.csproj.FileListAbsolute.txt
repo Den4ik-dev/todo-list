@@ -1,0 +1,15 @@
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\bin\Debug\net8.0\TodoList.Application.deps.json
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\bin\Debug\net8.0\TodoList.Application.dll
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\bin\Debug\net8.0\TodoList.Application.pdb
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\bin\Debug\net8.0\TodoList.Domain.dll
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\bin\Debug\net8.0\TodoList.Domain.pdb
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.csproj.AssemblyReference.cache
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.AssemblyInfoInputs.cache
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.AssemblyInfo.cs
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.csproj.CoreCompileInputs.cache
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.csproj.CopyComplete
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.dll
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\obj\Debug\net8.0\refint\TodoList.Application.dll
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.pdb
+C:\Users\StokovAdmin\Desktop\clean arhitecture\practic\independent practice\TodoList\TodoList.Application\obj\Debug\net8.0\ref\TodoList.Application.dll

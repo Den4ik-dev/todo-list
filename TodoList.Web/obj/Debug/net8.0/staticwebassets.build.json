@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p5SZu98dDqlJjAaMbmVFRJjDZXjJG4CSuxQM3GJQyYU=",
+  "Source": "TodoList.Web",
+  "BasePath": "_content/TodoList.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
